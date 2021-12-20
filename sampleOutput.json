@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Megan Thee Stallion 'told to dance' by Tory Lanez before alleged shooting",
+            "description": "Rapper Tory Lanez is accused of hurting the songwriter after a party in Hollywood in July 2020.",
+            "url": "http://www.bbc.co.uk/news/newsbeat-59666623",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/118D7/production/_115559817_gettyimages-1189840496.jpg",
+            "publishedAt": "2021-12-15T16:52:23.4383237Z",
+            "content": "Image source, Getty Images\r\nImage caption, Megan Thee Stallion was injured after a Hollywood party in July 2020\r\nTory Lanez told Megan Thee Stallion to \"dance\" before allegedly shooting at her feet, … [+1715 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Derek Chauvin pleads guilty in George Floyd civil rights case",
+            "description": "The former police officer is already serving a 22 year prison sentence for the murder of Mr Floyd.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59671567",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A305/production/_122233714_chauvin.jpg",
+            "publishedAt": "2021-12-15T16:37:22.1665102Z",
+            "content": "Image caption, Chauvin, pictured at his state sentencing in June, amended his plea in a federal case\r\nFormer Minneapolis Police Officer Derek Chauvin has pleaded guilty to federal charges of violatin… [+2092 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "2022 World Cup: Ex-media officer loses Qatar corruption appeal",
+            "description": "Abdullah Ibhais claims he was prosecuted for corruption after raising concerns about migrant workers.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-59669307",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/61C9/production/_122233052_mediaitem122233051.jpg",
+            "publishedAt": "2021-12-15T16:22:22.128258Z",
+            "content": "Image source, Abdullah Ibhais via Human Rights Watch\r\nImage caption, Abdullah Ibhais alleges that security forces coerced him into signing a confession\r\nA former employee of Qatar's 2022 World Cup or… [+4388 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New York City names first female police chief",
+            "description": "Keechant Sewell, 49, will be the first woman to lead the US's largest police force in its 176 years.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-59672998",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A55D/production/_122233324_keechantsewelllowres.jpg",
+            "publishedAt": "2021-12-15T16:07:21.4291082Z",
+            "content": "New York City's police force will be led by a woman for the first time in its 176-year history, Mayor-elect Eric Adams announced on Wednesday. \r\nKeechant Sewell, 49, is a 23-year veteran of the Nassa… [+1985 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Hamilton receives knighthood for services to motorsport",
+            "description": "Seven-time Formula 1 world champion Lewis Hamilton receives his knighthood for services to motorsport from Prince Charles during a ceremony at Windsor Castle.",
+            "url": "http://www.bbc.co.uk/sport/av/formula1/59671505",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/5409/production/_122231512_p0bb62ll.jpg",
+            "publishedAt": "2021-12-15T15:22:22.8939991Z",
+            "content": "Seven-time Formula 1 world champion Lewis Hamilton receives his knighthood for services to motorsport from Prince Charles during a ceremony at Windsor Castle.\r\nREAD MORE: Hamilton knighted by Prince … [+6 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hong Kong: Fire at World Trade Centre leaves more than 100 trapped on roof",
+            "description": "The fire broke out in a machine room which eventually led to the scaffolding catching fire.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-59663826",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/146C4/production/_122225638_whatsappimage2021-12-15at15.16.21.jpg",
+            "publishedAt": "2021-12-15T15:07:23.7814943Z",
+            "content": "Media caption, Watch: Dozens of people are stranded on the roof of the WTC awaiting rescue\r\nMore than 100 people have been trapped on the roof of Hong Kong's World Trade Centre awaiting rescue after … [+1719 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "On the front line as Afghan children battle malnutrition and measles",
+            "description": "The BBC reports from a hospital in remote Ghor province which is struggling to cope.",
+            "url": "http://www.bbc.co.uk/news/world-asia-59637586",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0C83/production/_122230230_measlesbabies.jpg",
+            "publishedAt": "2021-12-15T14:52:20.0141485Z",
+            "content": "By Secunder KermaniBBC News, Ghor Province\r\nImage caption, Mothers and babies, such as this girl on the malnutrition ward in Ghor, are at particular risk\r\n\"There's no space inside,\" shouts a beleague… [+7093 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: 'Staggering' Omicron case numbers expected - top health official",
+            "description": "Dr Jenny Harries says the variant's doubling time is now under two days in most of the UK.",
+            "url": "http://www.bbc.co.uk/news/live/uk-59664383",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "2021-12-15T12:22:26.0322836Z",
+            "content": "Professor Tim Spector, who helped found the Zoe symptom-tracking app, has said Covid cases in London are accelerating more than was seen during the very first wave of the virus. \r\nHe told BBC Radio 4… [+1572 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Billie Eilish says porn exposure while young caused nightmares",
+            "description": "The singer-songwriter spoke about how \"abusive\" pornography skewed her early sexual experiences.",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-59658663",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11186/production/_122222007_gettyimages-1357195978.jpg",
+            "publishedAt": "2021-12-14T22:52:25.1379795Z",
+            "content": "Image source, Getty Images\r\nImage caption, Eilish said watching porn as a child damaged her future sexual experiences\r\nSinger Billie Eilish has described how she suffered nightmares after being expos… [+2261 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Omicron probably in most countries, WHO says",
+            "description": "The heavily mutated coronavirus variant is spreading at an unprecedented rate, the WHO's head warns.",
+            "url": "http://www.bbc.co.uk/news/world-59656385",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1302F/production/_122217877_gettyimages-1237092032.jpg",
+            "publishedAt": "2021-12-14T19:52:22.5793744Z",
+            "content": "Image caption, The Omicron variant was first identified by South Africa\r\nThe World Health Organization (WHO) has warned that the new coronavirus variant Omicron is probably already present in most co… [+3047 chars]"
+        }
+    ]
+}
