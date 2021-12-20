@@ -12,7 +12,8 @@ import {
 class App extends React.Component {
   render() {
     return <div>
-      <Router>
+      Hello react app 
+      {/* <Router>
         <Navbar />
         <Switch>
           <Route exact path="/">
@@ -37,7 +38,7 @@ class App extends React.Component {
             <News key="entertainment" pageSize={15} country="us" category="entertainment" />
           </Route>
         </Switch>
-      </Router>
+      </Router> */}
     </div>;
   }
 }
